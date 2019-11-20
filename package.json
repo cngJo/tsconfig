@@ -21,9 +21,14 @@
     "typescript-config",
     "typescript-configuration"
   ],
-  "author": {
-    "name": "Johannes Przymusinski",
-    "email": "johannes@przymusinski.de"
+  "author": "Johannes Przymusinski <johannes@przymusinski.de>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cngJo/tsconfig.git"
   },
-  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/cngJo/tsconfig/issues"
+  },
+  "homepage": "https://github.com/cngJo/tsconfig#readme"
 }
