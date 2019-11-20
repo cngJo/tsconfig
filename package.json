@@ -4,7 +4,7 @@
   "description": "global typescript config for my projects",
   "main": "tsconfig.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish --access public"
   },
   "engines": {
     "node": ">=8"
