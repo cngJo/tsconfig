@@ -1,0 +1,29 @@
+{
+  "name": "tsconfig",
+  "version": "0.0.1",
+  "description": "global typescript config for my projects",
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration",
+    "typescript-config",
+    "typescript-configuration"
+  ],
+  "author": {
+    "name": "Johannes Przymusinski",
+    "email": "johannes@przymusinski.de"
+  },
+  "license": "MIT"
+}
